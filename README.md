@@ -94,6 +94,8 @@ _________________________________
 
      - If you are still facing any issues, please contact me (mentioned below on this page).
 
+官方IDM：Internet Download Manager: The fastest download accelerator
+https://www.internetdownloadmanager.com/
 ____________________________________________________________________________________________________
 
 ###   Credits:
